@@ -21,7 +21,7 @@ The "Diabetes Prediction" dataset contains information about factors associated 
 **Repository Structure**
 
 - diabetes_prediction_dataset.csv: Contains the raw data file used in the analysis.
-- Diabetes_Prediction_Dataset_Analysis.ipynb: Python script containing the code for data preprocessing, analysis, and prediction.
+- s.ipynb: Python script containing the code for data preprocessing, analysis, and prediction.
   
 **Dependencies**
 
