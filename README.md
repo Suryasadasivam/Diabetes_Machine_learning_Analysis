@@ -21,7 +21,7 @@ The "Diabetes Prediction" dataset contains information about factors associated 
 **Repository Structure**
 
 - diabetes_prediction_dataset.csv: Contains the raw data file used in the analysis.
-- s.ipynb: Python script containing the code for data preprocessing, analysis, and prediction.
+- Mlstreamli.py.ipynb: Python script containing the code for data preprocessing, analysis, and prediction.
   
 **Dependencies**
 
@@ -37,3 +37,8 @@ The "Diabetes Prediction" dataset contains information about factors associated 
 **Contribution Guidelines**
 
 Contributions to this project are welcome! If you find any issues, have suggestions for improvements, or want to add new features, please open an issue or submit a pull request following the guidelines outlined in CONTRIBUTING.md.
+
+<img width="960" alt="sttramli ml" src="https://github.com/Suryasadasivam/Diabetes_Machine_learning_Analysis/assets/162082177/f29f71d1-64d9-4ce1-8764-f1838ae19611">
+<img width="960" alt="stramlit-2" src="https://github.com/Suryasadasivam/Diabetes_Machine_learning_Analysis/assets/162082177/c2861699-078e-42b8-b387-143953635411">
+
+
